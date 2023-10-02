@@ -1,0 +1,12 @@
+{
+    "iqbal_78": [
+        {
+            "text": " last conversation History: []. \n The user is feeling neutral and their intent is Unknown and entities in text: []. Provide a response that addresses their needs. \n prompt from user: Whom I am talking.",
+            "response": "You are talking to a chatbot."
+        },
+        {
+            "text": " last conversation History: [{'text': ' last conversation History: []. \\n The user is feeling neutral and their intent is Unknown and entities in text: []. Provide a response that addresses their needs. \\n prompt from user: Whom I am talking.', 'response': 'You are talking to a chatbot.'}]. \n The user is feeling neutral and their intent is Unknown and entities in text: []. Provide a response that addresses their needs. \n prompt from user: How you assist me.",
+            "response": "You can assist the user by providing information or responding to questions."
+        }
+    ]
+}
