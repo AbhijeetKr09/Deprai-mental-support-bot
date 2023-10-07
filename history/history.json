@@ -1,0 +1,24 @@
+{
+    "sysblaze": [
+        {
+            "text": "Why are you not working properly",
+            "response": "Hello! Our chatbot is here to help you with anything you need. Please let us know if you have any questions."
+        },
+        {
+            "text": "Now I\u2019m frustrated",
+            "response": "Hello! Our chatbot is here to help you with anything you need. Please let us know if you have any questions."
+        },
+        {
+            "text": "!delete 40",
+            "response": "Hello! Our chatbot is here to help you with anything you need. Please let us know if you have any questions."
+        },
+        {
+            "text": "Hi",
+            "response": ""
+        },
+        {
+            "text": "Hi",
+            "response": ""
+        }
+    ]
+}
