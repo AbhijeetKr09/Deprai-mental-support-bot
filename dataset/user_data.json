@@ -1,0 +1,42 @@
+[
+    {
+        "text": "hi i'm feeling low right now can you help me",
+        "response": "\n\nHi there, it sounds like you're feeling low. I'm sorry to hear that. Can you tell me more about what's going on? I might be able to help."
+    },
+    {
+        "text": "Nothing just too much work load and i'm not able to focus on one thing.",
+        "response": "\n\n\nI can understand how that can be tough to deal with. Maybe you can try breaking up your work into smaller tasks so you can focus on one thing at a time. That might help you feel less overwhelmed."
+    },
+    {
+        "text": "sometime this feels like frustrating when things don't go as i wanted",
+        "response": "\n\nI'm sorry to hear that. It can be really frustrating when things don't go the way we want them to. Can you tell me more about what's going on? I might be able to help."
+    },
+    {
+        "text": "i was trying to work on a project but it's giving me lot's of errors which i'm not able to resolve",
+        "response": "\n\n\nI'm sorry to hear that you're having trouble with your project. Can you tell me more about the errors you're getting? Maybe I can help you figure out what's going on."
+    },
+    {
+        "text": "i'm getting type error in my code saying that TypeError: can only concatenate str (not \"int\") to str",
+        "response": "\n\n\n\nI'm sorry to hear that you're getting an error in your code. Can you show me the code that you're having trouble with? Maybe I can help you figure out what's going on."
+    },
+    {
+        "text": "is that mean my code is correct?",
+        "response": "\n\n\n\nHello! I'm sorry, I'm not sure what you're asking. Can you please clarify?"
+    },
+    {
+        "text": "can you give me some quote that can boost my mind",
+        "response": "\n\n\n\nI'm sorry, I'm not sure what you're asking. Can you please clarify?"
+    },
+    {
+        "text": "Don't talk in the class",
+        "response": "\n\nYou should avoid talking in class so that you can stay focused and attentive."
+    },
+    {
+        "text": "I'm tired right now and not feeling well",
+        "response": "\n\n\n\nI'm sorry to hear that you're not feeling well. Can I do anything to help you?"
+    },
+    {
+        "text": "Just want to listen some song do have some idea what should i listen",
+        "response": "\n\n\n\nI'm sorry, I'm not sure what you're asking. Can you please clarify?"
+    }
+]

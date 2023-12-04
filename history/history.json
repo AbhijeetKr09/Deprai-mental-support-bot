@@ -1,24 +1,30 @@
 {
     "sysblaze": [
         {
-            "text": "Why are you not working properly",
-            "response": "Hello! Our chatbot is here to help you with anything you need. Please let us know if you have any questions."
+            "text": "i'm getting type error in my code saying that TypeError: can only concatenate str (not \"int\") to str",
+            "response": "\n\n\n\nI'm sorry to hear that you're getting an error in your code. Can you show me the code that you're having trouble with? Maybe I can help you figure out what's going on."
         },
         {
-            "text": "Now I\u2019m frustrated",
-            "response": "Hello! Our chatbot is here to help you with anything you need. Please let us know if you have any questions."
+            "text": "is that mean my code is correct?",
+            "response": "\n\n\n\nHello! I'm sorry, I'm not sure what you're asking. Can you please clarify?"
         },
         {
-            "text": "!delete 40",
-            "response": "Hello! Our chatbot is here to help you with anything you need. Please let us know if you have any questions."
+            "text": "can you give me some quote that can boost my mind",
+            "response": "\n\n\n\nI'm sorry, I'm not sure what you're asking. Can you please clarify?"
         },
         {
-            "text": "Hi",
-            "response": ""
+            "text": "I'm tired right now and not feeling well",
+            "response": "\n\n\n\nI'm sorry to hear that you're not feeling well. Can I do anything to help you?"
         },
         {
-            "text": "Hi",
-            "response": ""
+            "text": "Just want to listen some song do have some idea what should i listen",
+            "response": "\n\n\n\nI'm sorry, I'm not sure what you're asking. Can you please clarify?"
+        }
+    ],
+    "iqbal_78": [
+        {
+            "text": "Don't talk in the class",
+            "response": "\n\nYou should avoid talking in class so that you can stay focused and attentive."
         }
     ]
 }

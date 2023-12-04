@@ -1,0 +1,11 @@
+
+
+Report generated on 2023-11-08 13:05:09:
+Your recent conversations show a negative sentiment.
+Average Sentiment Score: -0.10
+Average Sentiment Score: -0.10
+
+Report generated on 2023-11-08 13:05:47:
+Your recent conversations show a negative sentiment.
+Average Sentiment Score: -0.21
+Average Sentiment Score: -0.21

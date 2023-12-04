@@ -5,10 +5,15 @@ import spacy
 from ibm_watson import NaturalLanguageUnderstandingV1
 from ibm_watson.natural_language_understanding_v1 import Features, EntitiesOptions, SentimentOptions
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
-from conversation_analyser import ConversationAnalyzer as Conv_a
+
 
 
 class ResponseGenerator:
+
+    '''
+    This class essentially manages the process of generating responses in a chat application, using Spacy for entity extraction, IBM Watson for sentiment and intent analysis, and OpenAI for response generation. The if __name__ == "__main__" block at the end is used to test the class methods.
+    '''
+
     def __init__(self):
         load_dotenv("data.env")
         self.nlp = spacy.load("en_core_web_sm")

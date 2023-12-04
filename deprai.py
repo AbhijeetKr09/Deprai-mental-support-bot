@@ -17,19 +17,6 @@ openai.api_key = os.getenv("OPENAI_API")
 async def on_ready():
     print('We have logged in as {0.user}'.format(client))
 
-@client.command()
-@commands.has_permissions(manage_messages=True)
-async def delete(ctx, amount: int):
-    await client.purge_from(ctx.message.channel, limit=amount)
-
-@delete.error
-async def delete_error(ctx, error):
-    if isinstance(error, commands.MissingPermissions):
-        await ctx.send("You don't have permission to use this command.")
-    elif isinstance(error, commands.BadArgument):
-        await ctx.send("Please make sure you're using the command correctly: `!delete <number of messages>`")
-    else:
-        await ctx.send(f"An error occurred: {error}")
 
 @client.event
 async def on_message(message):
@@ -50,3 +37,5 @@ async def on_message(message):
     await message.channel.send(chat.get_response(message.content))
 
 client.run(os.getenv("BOT_TOKEN"))
+
+    
