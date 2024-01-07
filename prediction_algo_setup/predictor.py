@@ -1,4 +1,4 @@
-from data import disorders
+from prediction_algo_setup.data import disorders
 
 class DisorderPredictor:
     
